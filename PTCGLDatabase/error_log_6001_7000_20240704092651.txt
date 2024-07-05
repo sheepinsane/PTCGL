@@ -1,0 +1,310 @@
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6001/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6002/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6003/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6004/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6005/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6006/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6007/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6008/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6009/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6010/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6011/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6012/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6013/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6014/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6015/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6016/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6017/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6018/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6019/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6020/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6021/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6022/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6023/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6024/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6025/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6026/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6027/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6028/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6029/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6030/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6031/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6032/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6033/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6034/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6035/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6036/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6037/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6038/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6039/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6040/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6041/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6042/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6043/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6044/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6045/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6046/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6047/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6048/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6109/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6110/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6111/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6112/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6113/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6114/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6115/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6196/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6197/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6198/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6199/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6200/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6201/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6202/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6203/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6204/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6205/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6206/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6207/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6218/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6219/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6220/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6221/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6222/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6223/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6224/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6225/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6226/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6227/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6228/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6292/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6293/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6294/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6295/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6296/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6297/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6298/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6299/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6359/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6360/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6361/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6362/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6363/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6364/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6365/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6366/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6429/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6430/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6431/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6432/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6433/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6434/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6435/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6436/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6437/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6598/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6599/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6600/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6601/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6602/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6603/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6604/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6605/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6606/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6607/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6608/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6609/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6610/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6611/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6612/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6828/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6829/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6830/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6831/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6832/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6833/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6834/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6835/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6836/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6837/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6862/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6863/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6864/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6865/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6866/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6867/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6868/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6869/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6870/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6871/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6872/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6873/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6882/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6883/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6884/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6885/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6886/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6887/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6888/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6889/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6890/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6891/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6892/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6893/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6927/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6939/
+Error message: 'NoneType' object has no attribute 'text'
+Error for URL: https://asia.pokemon-card.com/tw/card-search/detail/6999/
+Error message: 'NoneType' object has no attribute 'text'
