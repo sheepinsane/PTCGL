@@ -23,5 +23,7 @@ urlpatterns = [
     path('cardinfo/List', views.List, name='card_list'),
     path('cardinfo/cardList', views.cardList, name='cardList'),
     path('showcard/', views.showcard, name='showcard'),
+    path('CSS/', views.CSS, name='CSS'),
+    path('Temp/', views.Temp, name='Temp'),
     path('', views.cardList, name='cardList'),
 ]

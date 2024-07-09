@@ -1,0 +1,32 @@
+<!-- other_page.html -->
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Other Page{% endblock %}
+
+{% block extra_css %}
+    <!-- 如果有特定页面需要额外的CSS文件，可以在这里添加 -->
+    <!-- <link rel="stylesheet" href="{% static 'path/to/specific.css' %}"> -->
+    <style>
+        div{
+            width:320px;
+            border: 2px solid #ff0000;
+            padding: 20px;
+            background-color: #ffa;
+            color: #fa0;
+            font-size: 22px;
+            line-height: 1.5;
+            height: 300px;
+        }
+        div a {
+            text-decoration: none;
+            color: #ff0000;
+        }
+    </style>
+{% endblock %}
+
+{% block content %}
+    <!-- 页面内容 -->
+    <div>
+        Lorem, <a href="">ipsum dolor</a> sit amet consectetur adipisicing elit. Esse similique quis iste cum est quia rerum, veritatis distinctio sit voluptatem sequi, debitis laudantium consequuntur quasi, voluptates velit explicabo nisi maxime.
+    </div>
+{% endblock %}

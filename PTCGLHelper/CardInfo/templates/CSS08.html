@@ -1,0 +1,48 @@
+<!-- other_page.html -->
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}block inline{% endblock %}
+
+{% block extra_css %}
+<style>
+    div {
+        display: inline;
+
+    }
+    h1 {
+        display: inline;
+
+    }
+    p {
+        display: inline;
+
+    }
+    .a-block {
+        display:inline-block;
+        background-color: #ccc;
+        width: 100px;
+        height: 100px;
+
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<h1>標題</h1>
+<p>Lorem ipsum <a href="" class="a-block">dolor sit amet</a> consectetur adipisicing elit. Dolorem alias error delectus magni, nostrum
+    et accusantium
+    dolor, laboriosam tenetur ea esse sit quod dolore fuga illo assumenda unde ducimus maxime.
+</p>
+<ul>
+    <li>abcdef</li>
+    <li>abcdef</li>
+    <li>abcdef</li>
+    <li>abcdef</li>
+</ul>
+<div>
+    Lorem ipsum dolor 
+</div>
+<div>
+    aaa bbb ccc 
+</div>
+{% endblock %}

@@ -3,7 +3,9 @@ from .models import PokemonCard
 from django.http import JsonResponse
 from django.core.serializers import serialize
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
+from django.views.decorators.cache import cache_control
 from django.db.models import Q
+
 
 def List(request):
     cards = PokemonCard.objects.all()
@@ -12,13 +14,21 @@ def List(request):
     return JsonResponse(cards_json, safe=False)
 
 def showcard(request):
+    
     query = request.GET.get('card_id')
     context = {
         'card_id': f"tw{query.zfill(8)}.png",  # 將搜索關鍵字傳遞到模板，以便於模板中顯示
     }
     return render(request, 'showcard.html', context)
-    #return render(request, 'showcard.html')
+    
+def CSS(request):
+    query = request.GET.get('No')
+    return render(request, f'CSS{query}.html')
 
+@cache_control(max_age=0, no_cache=True, no_store=True, must_revalidate=True)
+def Temp(request):
+    query = request.GET.get('Temp')
+    return render(request, f'{query}.html')
 
 
 def cardList(request):

@@ -1,0 +1,100 @@
+<!-- other_page.html -->
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}float{% endblock %}
+
+{% block extra_css %}
+<!-- 如果有特定页面需要额外的CSS文件，可以在这里添加 -->
+<!-- <link rel="stylesheet" href="{% static 'path/to/specific.css' %}"> -->
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    .warp {
+        width: 960px;
+        margin: auto;
+
+    }
+
+    .clear-fix {
+        clear: both;
+    }
+
+    .col {
+        width: 280px;
+        margin: 10px;
+        background-color: #ccc;
+        float: left;
+        border-radius: 1rem;
+        padding: 10px;
+    }
+    .col img {
+        width: 100%;
+
+    }
+    img {
+        float: left;
+        border-radius: 1rem;
+
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="warp">
+    <div class="col">
+        <img class="float-img" src="https://fakeimg.pl/250x150/aaaaaa/eeeeee">
+        <P>Lorem ipsum dolor sit amet consectetur,
+            adipisicing elit. Beatae optio dignissimos
+            ullam quidem nihil vel nulla molestiae maxime?
+            Delectus sint aut cum libero hic ratione,
+            ipsum aliquid laborum quibusdam consectetur?
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad, cupiditate iste animi tempora eius debitis
+            laborum sequi, omnis itaque excepturi quas ut eveniet eaque incidunt dolorum adipisci odit corrupti
+            consectetur?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ipsum quas dolorem incidunt quidem
+            obcaecati doloribus consectetur sapiente velit fuga ullam laudantium nobis laborum soluta consequuntur nisi
+            veniam, optio sint?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos beatae ab vel non fugiat officiis, obcaecati
+            illo sunt dolore aut tempore eveniet? Veritatis ut dignissimos laboriosam praesentium saepe atque quibusdam.
+        </P>
+    </div>
+    <div class="col">
+        <img class="float-img" src="https://fakeimg.pl/250x150/aaaaaa/eeeeee">
+        <P>Lorem ipsum dolor sit amet consectetur,
+            adipisicing elit. Beatae optio dignissimos
+            ullam quidem nihil vel nulla molestiae maxime?
+            Delectus sint aut cum libero hic ratione,
+            ipsum aliquid laborum quibusdam consectetur?
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad, cupiditate iste animi tempora eius debitis
+            laborum sequi, omnis itaque excepturi quas ut eveniet eaque incidunt dolorum adipisci odit corrupti
+            consectetur?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ipsum quas dolorem incidunt quidem
+            obcaecati doloribus consectetur sapiente velit fuga ullam laudantium nobis laborum soluta consequuntur nisi
+            veniam, optio sint?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos beatae ab vel non fugiat officiis, obcaecati
+            illo sunt dolore aut tempore eveniet? Veritatis ut dignissimos laboriosam praesentium saepe atque quibusdam.
+        </P>
+    </div>
+    <div class="col">
+        <img class="float-img" src="https://fakeimg.pl/250x150/aaaaaa/eeeeee">
+        <P>Lorem ipsum dolor sit amet consectetur,
+            adipisicing elit. Beatae optio dignissimos
+            ullam quidem nihil vel nulla molestiae maxime?
+            Delectus sint aut cum libero hic ratione,
+            ipsum aliquid laborum quibusdam consectetur?
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad, cupiditate iste animi tempora eius debitis
+            laborum sequi, omnis itaque excepturi quas ut eveniet eaque incidunt dolorum adipisci odit corrupti
+            consectetur?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ipsum quas dolorem incidunt quidem
+            obcaecati doloribus consectetur sapiente velit fuga ullam laudantium nobis laborum soluta consequuntur nisi
+            veniam, optio sint?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos beatae ab vel non fugiat officiis, obcaecati
+            illo sunt dolore aut tempore eveniet? Veritatis ut dignissimos laboriosam praesentium saepe atque quibusdam.
+        </P>
+    </div>
+    <div class="clear-fix"></div>
+</div>
+{% endblock %}

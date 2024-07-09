@@ -1,0 +1,29 @@
+<!-- other_page.html -->
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}float{% endblock %}
+
+{% block extra_css %}
+    <!-- 如果有特定页面需要额外的CSS文件，可以在这里添加 -->
+    <!-- <link rel="stylesheet" href="{% static 'path/to/specific.css' %}"> -->
+<style>
+    .float-img {
+        float: left;
+        margin:0 20px 10px 0;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<img class="float-img" src="https://fakeimg.pl/250x150/aaaaaa/eeeeee">
+<P>Lorem ipsum dolor sit amet consectetur, 
+    adipisicing elit. Beatae optio dignissimos
+     ullam quidem nihil vel nulla molestiae maxime?
+      Delectus sint aut cum libero hic ratione, 
+      ipsum aliquid laborum quibusdam consectetur?
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad, cupiditate iste animi tempora eius debitis laborum sequi, omnis itaque excepturi quas ut eveniet eaque incidunt dolorum adipisci odit corrupti consectetur?
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ipsum quas dolorem incidunt quidem obcaecati doloribus consectetur sapiente velit fuga ullam laudantium nobis laborum soluta consequuntur nisi veniam, optio sint?    
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos beatae ab vel non fugiat officiis, obcaecati illo sunt dolore aut tempore eveniet? Veritatis ut dignissimos laboriosam praesentium saepe atque quibusdam.
+</P>    
+   
+{% endblock %}

@@ -1,0 +1,86 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS01</title>
+    <!-- 引入 Bootstrap 5 Slate 主题的 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <nav>
+        <a href="/Temp?Temp=CSS01">CSS01</a> 
+        <a href="/Temp?Temp=CSS02">CSS02</a> 
+        <a href="/CSS?No=03">CSS03</a>
+        <a href="/CSS?No=03">CSS04</a>
+        <a href="/CSS?No=03">CSS05</a>
+    </nav>
+    <div class="banner">
+        <div class="containr">
+            <div class="banner_text">
+                <h1>測試網頁
+                    <small>一號內容</small>
+                </h1>
+               
+                <h2>圖文滿版區塊
+                    <small>二號內容</small>
+                </h2>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&display=swap" rel="stylesheet">
+<style type="text/css">
+    *{
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+        font-family: "Chocolate Classical Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    .banner {
+        width: 100%;
+        height: 100vh;
+        margin:auto;
+        background-color:#ccc;
+        background: linear-gradient(115deg,#7bf 50%,transparent 50%) center center / 100% 100% ,
+        url(https://truth.bahamut.com.tw/s01/202404/forum/21259/b846780a7db5f1a60ed3cdfe4cdcedce.JPG?w=1000) right center / auto 100%
+        ;
+    }
+    .containr{
+        height: 100%;
+        width: 1200px;
+        display:flex;
+
+    }
+    .banner_text{
+        height: 100%;
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    .banner_text h1{
+        font-size: 80px;
+        border-bottom: 1px solid #333;
+        font-weight: 700;
+        
+    }
+    .banner_text small{
+        display: block;
+        font-size: 53px;
+    }
+    .banner_text h2{
+        font-size: 50px;
+        font-weight: 700;
+    }
+    .banner_text small{
+        font-size: 30px;
+    }
+</style>
+<link rel="stylesheet" type="text/css" href="{% static 'css/initial.css' %}?t={{ timestamp }}">

@@ -1,0 +1,19 @@
+<!-- other_page.html -->
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Other Page{% endblock %}
+
+{% block extra_css %}
+    <!-- 如果有特定页面需要额外的CSS文件，可以在这里添加 -->
+    <!-- <link rel="stylesheet" href="{% static 'path/to/specific.css' %}"> -->
+{% endblock %}
+
+{% block content %}
+<h1>這是標題</h1>
+<figure>
+    <img src="https://truth.bahamut.com.tw/s01/202404/forum/21259/b846780a7db5f1a60ed3cdfe4cdcedce.JPG?w=1000" alt="這是奇樹" srcset="">
+    <figcaption>這是奇樹</figcaption>
+</figure>
+
+{% endblock %}
+

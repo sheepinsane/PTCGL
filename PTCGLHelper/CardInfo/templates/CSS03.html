@@ -1,0 +1,15 @@
+<!-- other_page.html -->
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Other Page{% endblock %}
+
+{% block extra_css %}
+    <!-- 如果有特定页面需要额外的CSS文件，可以在这里添加 -->
+    <!-- <link rel="stylesheet" href="{% static 'path/to/specific.css' %}"> -->
+{% endblock %}
+
+{% block content %}
+    <!-- 页面内容 -->
+    <h1>Other Page Content</h1>
+    <p>This is the content of the other page.</p>
+{% endblock %}
