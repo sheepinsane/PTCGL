@@ -17,10 +17,10 @@ h1 {
 nav {
     background-color: #000;
     text-align: center;
-    display: inline-block;
     padding:6px 20px;
     width: 100%;
     font-size: 0;
+    display:flex;
 }
 nav a {
     color: #fff;
@@ -32,7 +32,6 @@ nav a {
     font-style: normal;
     transition: 0.5s;
     padding: 10px 10px;
-    display: inline-block;
 }
 nav a:hover {
     color: #fff;
