@@ -1,0 +1,229 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/reset.css' %}?t={{ timestamp }}">
+
+</head>
+<style>
+    img {
+        vertical-align: bottom;
+
+    }
+    .text p {
+        line-height: 1.5;
+    }
+    .banner img{
+        width: 100%;
+    }
+    .service img{
+            width: 100%;
+        }
+    .item .pic img {
+        width: 100%;
+        border-radius: 10px;
+
+    }
+    .item {
+        padding: 30px 10px;
+        margin: 0 10px 10px;
+    }
+    .title {
+        padding: 30px 10px;
+        background-color: #ccc;
+    }
+    .title h2{
+        text-align: center;
+        font-size: 40px;
+    }
+    .item h3{
+        margin: 0 0 6px 10px;
+        font-size: 24px;
+        text-align: center;
+    }
+    .title p {
+        font-size: 22px;
+        line-height: 1.5;
+    }
+
+    .item-group  {
+        max-width: 1200px;
+        width: 100%;
+        margin: auto;
+    }
+    .footer {
+        width: 100%;
+        background-color: #333;
+        color: #aaa;
+        text-align: center;
+        padding: 10px 0px;
+    }
+    .service {
+        background-color: #fee;
+        padding: 60px 0;
+
+    }
+    @media screen and (min-width:768px) {
+        .item-group {
+            display: flex;
+        }
+        .service .item{
+            width: 50%;
+        }
+
+        .service .text{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;    
+        }
+    }
+
+</style>
+<body>
+    <div class="banner">
+        <img class='' alt='' src='https://picsum.photos/1400/500?random=1' alt=''>
+    </div>
+    <div class="abort">
+        <div class="warp">
+            <div class="title">
+                <h2>關於我們</h2>
+                <P>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum vel atque in impedit. Voluptas laborum
+                    ipsum delectus consectetur recusandae minus sint, voluptatibus incidunt sit excepturi tempora?
+                    Officiis repellendus recusandae incidunt?
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil esse in eaque aut totam omnis nisi alias temporibus! Cum repellendus impedit officiis iure natus distinctio dolorum quasi mollitia recusandae commodi!
+                    Maxime perspiciatis possimus rerum quis illum odit voluptatibus fugit quasi sequi perferendis voluptas commodi earum totam magnam veritatis aliquam dolores, maiores consequatur repellendus labore ut dolore? Accusantium aspernatur quod sed.
+                    Reprehenderit non suscipit dolores ipsam repellendus, dicta ipsum ad! Porro doloribus magni quas reprehenderit minima, iste dolorem cumque fuga sunt ratione fugit, inventore atque adipisci deserunt ab excepturi deleniti perferendis.
+                    Culpa quae iusto ipsa. Dolores, harum! Assumenda cumque nihil incidunt debitis deserunt illo exercitationem libero aspernatur error tempora! Officia, porro laudantium! Harum fugiat voluptatem consectetur iste, quae natus eius minus!
+                    Sed tenetur rerum numquam voluptas alias animi ducimus? Eveniet enim ab officiis, animi, nemo sit cupiditate eaque qui repellendus possimus aut magnam perspiciatis totam fugit quisquam voluptates ad veniam? Incidunt.
+                    Numquam ea labore eius maxime consectetur! Ipsa voluptates doloribus vero aliquid culpa consequatur quam cupiditate sunt fugit minus, corrupti unde accusantium iste explicabo est atque placeat asperiores repellendus, esse laboriosam.
+                    Dolor laudantium rerum explicabo magni, nam molestiae. Nostrum iste autem magnam at laudantium fugiat? Rerum, dolor asperiores similique culpa ratione reiciendis ipsa architecto quod exercitationem magnam dicta recusandae. Ea, illo.
+                    Tempore, dolores id pariatur beatae placeat qui voluptas praesentium excepturi a itaque. Perspiciatis incidunt suscipit enim, explicabo quidem quaerat, facilis reprehenderit, eum dolore qui saepe culpa quas excepturi temporibus officiis.
+                    Suscipit culpa reprehenderit assumenda deleniti vero, totam voluptas aspernatur autem fugit expedita eligendi a veniam corporis sed ullam consequatur doloremque saepe delectus impedit incidunt! Illum voluptatem sit atque corporis corrupti.
+                    Eligendi vitae, omnis quidem voluptas blanditiis nihil ipsam aut adipisci nobis pariatur, accusamus, alias vero assumenda quibusdam id vel eaque eum veniam nostrum tenetur quia molestias? Mollitia corrupti modi ducimus?
+                </P>
+            </div>
+            <div class="item-group">
+                <div class="item">
+                    <div class="pic">
+                        <img class='' alt='' src='https://picsum.photos/50/40?random=2' alt=''>
+                    </div>
+                    <div class="text">
+                        <h3>title</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut illo veniam praesentium aperiam quo
+                        illum tenetur quasi voluptatibus, neque quidem odit laborum commodi, obcaecati harum molestiae
+                        itaque tempora similique quod!</p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="pic">
+                        <img class='' alt='' src='https://picsum.photos/50/40?random=3' alt=''>
+                    </div>
+                    <div class="text">
+                        <h3>title</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut illo veniam praesentium aperiam quo
+                        illum tenetur quasi voluptatibus, neque quidem odit laborum commodi, obcaecati harum molestiae
+                        itaque tempora similique quod!</p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="pic">
+                        <img class='' alt='' src='https://picsum.photos/50/40?random=4' alt=''>
+                    </div>
+                    <div class="text">
+                        <h3>title</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut illo veniam praesentium aperiam quo
+                        illum tenetur quasi voluptatibus, neque quidem odit laborum commodi, obcaecati harum molestiae
+                        itaque tempora similique quod!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="service">
+        <div class="warp">
+            <div class="item-group">
+                <div class="item">
+                    <div class="pic">
+                        <img class='' alt='' src='https://picsum.photos/50/40?random=5' alt=''>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="text">
+                        <h3>服務項目</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut illo veniam praesentium aperiam quo
+                        illum tenetur quasi voluptatibus, neque quidem odit laborum commodi, obcaecati harum molestiae
+                        itaque tempora similique quod!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="abort">
+        <div class="warp">
+            <div class="title">
+                <h2>其他項目</h2>
+                <P>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum vel atque in impedit. Voluptas laborum
+                    ipsum delectus consectetur recusandae minus sint, voluptatibus incidunt sit excepturi tempora?
+                    Officiis repellendus recusandae incidunt?
+                </P>
+            </div>
+            <div class="item-group">
+                <div class="item">
+                    <div class="pic">
+                        <img class='' alt='' src='https://picsum.photos/50/40?random=8' alt=''>
+                    </div>
+                    <div class="text">
+                        <h3>title</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut illo veniam praesentium aperiam quo
+                        illum tenetur quasi voluptatibus, neque quidem odit laborum commodi, obcaecati harum molestiae
+                        itaque tempora similique quod!</p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="pic">
+                        <img class='' alt='' src='https://picsum.photos/50/40?random=9' alt=''>
+                    </div>
+                    <div class="text">
+                        <h3>title</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut illo veniam praesentium aperiam quo
+                        illum tenetur quasi voluptatibus, neque quidem odit laborum commodi, obcaecati harum molestiae
+                        itaque tempora similique quod!</p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="pic">
+                        <img class='' alt='' src='https://picsum.photos/50/40?random=10' alt=''>
+                    </div>
+                    <div class="text">
+                        <h3>title</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut illo veniam praesentium aperiam quo
+                        illum tenetur quasi voluptatibus, neque quidem odit laborum commodi, obcaecati harum molestiae
+                        itaque tempora similique quod!</p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="pic">
+                        <img class='' alt='' src='https://picsum.photos/50/40?random=11' alt=''>
+                    </div>
+                    <div class="text">
+                        <h3>title</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut illo veniam praesentium aperiam quo
+                        illum tenetur quasi voluptatibus, neque quidem odit laborum commodi, obcaecati harum molestiae
+                        itaque tempora similique quod!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="footer">
+    CpoyRight 2024 by sean
+</div>
+</body>
+
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation </title>
+</head>
+<style>
+    .box {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        color: #f00;
+        background-color: #f00;
+    }
+    .box:hover {
+        animation: sean 1.5s 2 alternate;
+    }
+    .box1 {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        color: #f00;
+        background-color: #f00;
+        animation: sean 1.5s infinite alternate;
+    }
+    @keyframes sean {
+        0%{
+            border-radius: 50%;
+        }
+        100%{
+            border-radius: 0%;
+        }
+    }
+</style>
+<body>
+    <div class="box"></div>
+    <div class="box1"></div>
+</body>
+</html>
